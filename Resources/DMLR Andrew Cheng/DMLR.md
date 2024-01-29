@@ -8,7 +8,7 @@
 
 Order of boolean connectives: 
 
-$ \neg, \bigwedge, \bigvee, \rightarrow, \leftrightarrow$​ . **from the strongest to the weakest**
+$\neg, \bigwedge, \bigvee, \rightarrow, \leftrightarrow$​ . **from the strongest to the weakest**
 
 
 
