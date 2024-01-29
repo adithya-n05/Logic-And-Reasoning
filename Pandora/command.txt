@@ -1,0 +1,1 @@
+java -cp pandora.jar:java-cup-11a.jar Pandora.Pandora
